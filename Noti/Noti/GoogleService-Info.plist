@@ -2,33 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CLIENT_ID</key>
-	<string>982883295715-srba8fnv8kda3ghuf85glbv1rrrt5lns.apps.googleusercontent.com</string>
-	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.982883295715-srba8fnv8kda3ghuf85glbv1rrrt5lns</string>
-	<key>API_KEY</key>
-	<string>AIzaSyCPZh5XtA3Y44puxRJ5HNMr4pR1cytaqUU</string>
-	<key>GCM_SENDER_ID</key>
-	<string>982883295715</string>
-	<key>PLIST_VERSION</key>
-	<string>1</string>
-	<key>BUNDLE_ID</key>
-	<string>org.Noti</string>
-	<key>PROJECT_ID</key>
-	<string>noti-47a1a</string>
-	<key>STORAGE_BUCKET</key>
-	<string>noti-47a1a.appspot.com</string>
-	<key>IS_ADS_ENABLED</key>
-	<false/>
-	<key>IS_ANALYTICS_ENABLED</key>
-	<false/>
-	<key>IS_APPINVITE_ENABLED</key>
-	<true/>
-	<key>IS_GCM_ENABLED</key>
-	<true/>
-	<key>IS_SIGNIN_ENABLED</key>
-	<true/>
-	<key>GOOGLE_APP_ID</key>
-	<string>1:982883295715:ios:f51b8bb34f2126f0a240d6</string>
+	
 </dict>
 </plist>
