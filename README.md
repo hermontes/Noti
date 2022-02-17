@@ -1,3 +1,4 @@
+BuiltresponsiveiOSapplicationusingSwifttargetedathelpingparentskeepupwiththeeventsofthehighschooltheirstudents attend.
 Ensure cocoa pods is installed by doing: sudo gem install cocoapods
 then do 'pod init' inside Noti folder in terminal
 
